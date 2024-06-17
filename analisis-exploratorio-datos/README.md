@@ -78,4 +78,4 @@ Ahora bien, los tipos de análisis que se pueden realizar son de tipo **univaria
 
 Existen varios tipos de recolección de datos. Están los primarios, recolectados de primera mano, los secundarios, que ya son suministrados al usuario por una fuente primaria y los terciarios que ya vienen de terceros alejados completamente de la fuente primaria.  
 
-Ahora bien, se debe validar la consistencia de los datos. Entre estos el modelo de los datos, seguimiento de un formato estándar los tipos de datos unicidad y los valores nulos
+Ahora bien, se debe validar la consistencia de los datos. Entre estos el modelo de los datos, seguimiento de un formato estándar los tipos de datos unicidad y los valores nulos.
